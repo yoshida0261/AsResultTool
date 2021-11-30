@@ -1,0 +1,2 @@
+# AsResultTool
+Android StudioのUnit Testの結果をGithubのチェック欄に表示するツールです
